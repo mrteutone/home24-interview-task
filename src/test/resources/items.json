@@ -1,0 +1,10 @@
+{"sku": "sku-1", "attributes": {"a": "a", "b":  "b", "c":  "c"}}
+{"sku": "sku-2", "attributes": {"a": "a", "b":  "b", "c":  "c"}}
+{"sku": "sku-3", "attributes": {"a": "a", "b":  "b", "c":  "c1"}}
+{"sku": "sku-4", "attributes": {"a": "a", "b":  "b", "c":  "c1"}}
+{"sku": "sku-5", "attributes": {"a": "a", "b":  "b1", "c":  "c1"}}
+{"sku": "sku-6", "attributes": {"a": "a", "b":  "b1", "c":  "c1"}}
+{"sku": "sku-7", "attributes": {"a": "a1", "b":  "b", "c":  "c"}}
+{"sku": "sku-8", "attributes": {"a": "a1", "b":  "b", "c":  "c"}}
+{"sku": "sku-9", "attributes": {"a": "a1", "b":  "b1", "c":  "c1"}}
+{"sku": "sku-10", "attributes": {"a": "a1", "b":  "b1", "c":  "c1"}}
